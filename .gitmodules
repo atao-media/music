@@ -1,0 +1,6 @@
+[submodule "bristol"]
+	path = bristol
+	url = ./bristol
+[submodule "piano"]
+	path = piano
+	url = ./piano
